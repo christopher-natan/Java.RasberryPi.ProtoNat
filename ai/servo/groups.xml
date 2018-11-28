@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ai>
+    <action name="Steady">
+        <Neutral></Neutral>
+    </action>
+    <action name="TurnRight">
+        <Neutral></Neutral>
+        <Wait></Wait>
+        <Right></Right>
+    </action>
+    <action name="TurnLeft">
+        <Neutral></Neutral>
+        <Wait></Wait>
+        <Left></Left>
+    </action>
+    <action name="TurnRightHalf">
+        <Neutral></Neutral>
+        <Wait></Wait>
+        <RightHalf></RightHalf>
+    </action>
+    <action name="TurnLeftHalf">
+        <Neutral></Neutral>
+        <Wait></Wait>
+        <LeftHalf></LeftHalf>
+    </action>
+    <action name="CuriosRight">
+        <Neutral></Neutral>
+        <Wait></Wait>
+        <Right></Right>
+    </action>
+</ai>

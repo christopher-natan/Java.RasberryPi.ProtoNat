@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <Wait>5</Wait>
+    <Neutral>100</Neutral>
+    <Left>130</Left>
+    <Right>180</Right>
+    <LeftHalf>150</LeftHalf>
+    <RightHalf>160</RightHalf>
+</config>
+
+
